@@ -1,0 +1,14 @@
+{
+  "name": "aula3",
+  "version": "1.5.0",
+  "description": "Descrevendo variaveis",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ray Thiago",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
